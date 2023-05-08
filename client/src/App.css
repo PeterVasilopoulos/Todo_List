@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.todo-item {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20px;
+}
+
+.delete {
+  height: 20px;
+  background-color: black;
+  color: white;
+}

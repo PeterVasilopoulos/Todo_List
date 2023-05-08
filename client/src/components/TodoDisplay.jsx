@@ -1,9 +1,11 @@
 import React from 'react'
 
-const TodoDisplay = () => {
+const TodoDisplay = (props) => {
+    
+
     return (
         <div>
-            Todo List
+            <h3>Todo List</h3>
         </div>
     )
 }
